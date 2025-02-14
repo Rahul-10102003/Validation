@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.validation.app-mergeDebugResources-35:/layout/activity_main2.xml",
+        "source": "com.example.validation.app-main-38:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.validation.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.example.validation.app-main-38:/layout/activity_main.xml"
+    }
+]

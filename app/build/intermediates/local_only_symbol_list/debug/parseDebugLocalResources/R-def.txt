@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn
+id contact
+id contact1
+id cpassword
+id cpassword1
+id email
+id email1
+id main
+id name
+id name1
+id password
+id password1
+id tv1
+id tv2
+id tv3
+id tv4
+id tv5
+layout activity_main
+layout activity_main2
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Validation
+style Theme.Validation
+xml backup_rules
+xml data_extraction_rules
